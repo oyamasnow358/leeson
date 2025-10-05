@@ -1,0 +1,13 @@
+[theme]
+# 青を基調としたクリーンな配色
+primaryColor="#4a90e2"
+# 背景を少しグレーに
+backgroundColor="#f0f2f6"
+# コンテナなどの背景は白
+secondaryBackgroundColor="#ffffff"
+textColor="#31333F"
+font="sans serif"
+
+[server]
+# コードを保存したときに自動で再実行
+runOnSave = true
