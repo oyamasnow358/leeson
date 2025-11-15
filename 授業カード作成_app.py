@@ -123,7 +123,7 @@ def generate_excel_from_form_data(form_data):
         # 例: Googleフォームの項目名 -> Excelのセル
         cell_mappings = {
 
-            '知的段階及び発達段階': 'B2'
+            '知的段階及び発達段階': 'B2',
             '単元名': 'B3',
             'キャッチコピー': 'B5',
             '授業のねらい': 'B9',
